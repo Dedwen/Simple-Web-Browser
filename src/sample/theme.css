@@ -1,0 +1,34 @@
+.toolBar {
+    -fx-background-color: #006666;
+}
+
+.adressBar{
+    -fx-background-color:#e5efef ;
+}
+
+.adressBar:hover{
+    -fx-background-color: #ffffff;
+}
+
+.Go {
+    -fx-background-color: #328484;
+    -fx-background-radius: 100%;
+}
+
+.Go:hover {
+    -fx-background-color: #66a3a3;
+    -fx-background-radius: 100%;
+}
+
+.exit {
+    -fx-background-color: #328484;
+    -fx-background-radius: 100%;
+}
+
+.exit:hover {
+    -fx-background-color: #66a3a3;
+    -fx-background-radius: 100%;
+}
+
+
+
